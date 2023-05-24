@@ -15,7 +15,8 @@ Perdon por la desorganizacion del repositorio y la poca prolijidad, pero se nos 
  - EDA - PI2.ipynb es el analisis exploratoorio de datos.
  - ETL - PI".ipynb es el ETL a la base de datos.
  - ProyectoIndividual2-OlivaPinto.docx: Es el informe escrito.
- - ProyectoIndividual2-OlivaPinto.pbix: Es el archivo de PowerBi, es una presentacion con un Dashboard interactivo. 
+ - ProyectoIndividual2-OlivaPinto.pbix: Es el archivo de PowerBi, es una presentacion con un Dashboard interactivo.
+ - Consigna.md: Es la consiga del proyecto que brindo Henry.  
 
 Presta especial atencion al Dashboard interactivo de PowerBi, es muy interesante para que recorras y visualices los datos a traves de la historia.
 
