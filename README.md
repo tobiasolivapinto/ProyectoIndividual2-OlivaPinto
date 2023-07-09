@@ -41,7 +41,7 @@ En este proyecto podrás encontrar:
 	- **Consigna.md** [(link)](https://github.com/tobiasolivapinto/ProyectoIndividual2-OlivaPinto/blob/main/Consigna%20Henry/Consigna.md)  →  Es la consigna brindada por Henry.
 
 ## Cierre
-Presta especial atención al Dashboard interactivo de PowerBi, es muy interesante para que recorras y visualices los datos a través de la historia.
-Espero que te sirva y lo disfrutes. Una vez terminada la corrección, me dedicaré a los detalles finales. 
-Saludos! Tobias. 
+Presta especial atención al Dashboard interactivo de PowerBi, es muy interesante para que recorras y visualices los datos a través de la historia, y no olvides el informe, será fundamental para una mejor comprensión del dashboard.
+
+Espero que te sirva y lo disfrutes. En lo personal, me parecio un proyecto super interesante, los aviones y las empresas aeronauticas siempre me llamaron la atención. Saludos, Tobías!
 
