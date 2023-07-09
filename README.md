@@ -37,6 +37,8 @@ En este proyecto podras encontrar:
 	- **ProyectoIndividual2-OlivaPinto.pdf**  [(link)](https://github.com/tobiasolivapinto/ProyectoIndividual2-OlivaPinto/tree/main/Informe)→  Es el informe escrito.
 - **PowerBI** [(link)](https://github.com/tobiasolivapinto/ProyectoIndividual2-OlivaPinto/tree/main/PowerBI)
 	- **ProyectoIndividual2-OlivaPinto.pbix** [(link)](https://github.com/tobiasolivapinto/ProyectoIndividual2-OlivaPinto/blob/main/PowerBI/ProyectoIndividual2-OlivaPinto.pbix)  →  Es el archivo de PowerBi, es una presentacion con un Dashboard interactivo.
+ - **Consigna de Henry** [(link)](https://github.com/tobiasolivapinto/ProyectoIndividual2-OlivaPinto/tree/main/Consigna%20Henry)
+	- **Consigna.md** [(link)](https://github.com/tobiasolivapinto/ProyectoIndividual2-OlivaPinto/blob/main/Consigna%20Henry/Consigna.md)  →  Es la consigna brindada por Henry.
 
 ## Cierre
 Presta especial atencion al Dashboard interactivo de PowerBi, es muy interesante para que recorras y visualices los datos a traves de la historia.
